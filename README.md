@@ -61,3 +61,8 @@ attention/
 5. The program prints BERT's top 3 predictions for the masked word, and saves an `Attention_Layer<N>_Head<N>.png` diagram for every layer/head combination in the project folder.
 
 Note: the first run downloads the `bert-base-uncased` model from Hugging Face, so an internet connection is required at least once.
+
+## course 
+This project was a part of CS50's Introduction to Artificial Intelligence with Python
+
+Project: Attention

@@ -1,4 +1,4 @@
-# CS50 AI "attention" project
+# attention
 
 ## by Dyan Ahmadi
 
